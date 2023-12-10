@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+huggingface-hub
+transformers
+fastapi-simple-cachecontrol
+httpx
+aioredis
