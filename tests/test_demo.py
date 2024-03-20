@@ -7,8 +7,6 @@ def add_numbers(a, b):
 def multiply_numbers(a, b):
     return a * b
 
-
-
 class TestDemoFunctions(unittest.TestCase):
 
     def test_add_numbers(self):
