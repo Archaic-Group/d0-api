@@ -1,1 +1,6 @@
-# okay this is where to start, let's brainstorm and build this
+class Sapphire():
+    def __init__(self):
+        pass
+
+    def generate():
+        pass
